@@ -4,6 +4,7 @@
 How do you do!
 my name is fary!
 what`s your name?
+yes,yes
 
 ### My Skills
 
