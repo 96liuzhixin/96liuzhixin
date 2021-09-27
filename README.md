@@ -1,7 +1,10 @@
 ## Hey, you found me! I'm 96liuzhixin
 
 ### A little bit about me
-I am an embedded software engineer and master MCU communication methods and other technologies. I hope to learn and work hard with everyone on this platform. Come on! 
+How do you do!
+my name is fary!
+what`s your name?
+yes,yes
 
 ### My Skills
 
